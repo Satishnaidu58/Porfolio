@@ -1,3 +1,3 @@
 # Porfolio_HTML_CSS
 Only using HTML + CSS
-Link : https://satishnaidu58.github.io/Porfolio_HTML_CSS/
+Link : https://satishnaidu58.github.io/Porfolio/
